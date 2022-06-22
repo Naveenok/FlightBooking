@@ -9,7 +9,7 @@ const initialState: FormFields = {
   trip: "",
   departure: "",
   return: "",
-  passangerClass: "",
+  passengerClass: "",
 };
 
 // initial context data
